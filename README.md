@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Happy520.GitHub.io by happpy520</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-You can use the [editor on GitHub](https://github.com/happy520ky/happy520ky.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  </head>
+  <body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      <header>
+        <h1>BigXiongAn</h1>
+        <h2>大雄安</h2>
+        <p></p>
+      </header>
 
-### Markdown
+      <div id="banner">
+        <span id="logo"></span>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <a href="http://www.vrfens.com" class="button fork"><strong>联系我</strong></a>
+        <a href="javascritp:;" >现出售一下域名</a>
+        
+         <a href="http://www.vrfens.com" class="button fork"><strong>www.vrfens.com    VR粉丝网</strong></a>
+         <a href="http://www.vrfens.com" class="button fork"><strong>www.vrfens.cn    VR粉丝网</strong></a>
+         <a href="http://www.vrfens.com" class="button fork"><strong>www.JuSeVr.com    桔色VR</strong></a>
+         <a href="http://www.vrfens.com" class="button fork"><strong>www.JuSeVr.cn    桔色VR</strong></a>
+         
+         <a href="http://www.vrfens.com" class="button fork"><strong>www.NiceAR.cn   NiceAr</strong></a>
+         
+         <a href="http://www.vrfens.com" class="button fork"><strong>www.51tutechan.cn   我要土特产</strong></a>
+         
+        
+      </div><!-- end banner -->
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/happy520ky/happy520ky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <div class="wrapper">
+      <nav>
+        <ul>
+          <li>
+            
+          </li>
+          
+        </ul>
+      </nav>
+      <footer>
+        <p>Project maintained by <a href="http://www.vrfens.com">happpy520</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
